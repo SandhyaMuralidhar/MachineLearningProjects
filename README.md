@@ -1,5 +1,5 @@
 ﻿# MachineLearningProjects
-1.📁  K-Nearest Neighbors (KNN) Classifier
+1.📁 K-Nearest Neighbors (KNN) Classifier
 Notebook: K nearest Neighbors.ipynb
 
 Overview:
@@ -15,7 +15,7 @@ Model selection and evaluation
 
 Visualization of results
 
-2. 📁 KNN_Project_Data
+2.📁 KNN_Project_Data
 This file contains the dataset used for the K-Nearest Neighbors (KNN) Classification Project.
 
 About the Dataset
@@ -40,7 +40,7 @@ The dataset is provided for educational and demonstration purposes only.
 
 For details on the data columns and their meanings, refer to the data exploration section in the project notebook.
 
-3. Logistic Regression Classification Project
+3.📁 Logistic Regression Classification Project
 This Jupyter notebook demonstrates the implementation of Logistic Regression for binary classification tasks using Python and scikit-learn.
 
 📚 Project Overview
@@ -108,7 +108,7 @@ Evaluating models using metrics like accuracy, precision, recall, and ROC curves
 Visualizing classification results and interpreting model coefficients
 
 
-4. Natural Language Processing (NLP) Project
+4.📁 Natural Language Processing (NLP) Project
 This Jupyter notebook demonstrates fundamental techniques in Natural Language Processing (NLP) using Python. The project covers essential steps for processing and analyzing text data, making it a great introduction to NLP for beginners and practitioners alike.
 
 📚 Project Overview
@@ -148,7 +148,7 @@ matplotlib / seaborn
 
 Jupyter Notebook
 
-5. Random Forest Regression Project
+5.📁 Random Forest Regression Project
 This Jupyter notebook demonstrates the use of Random Forest Regression for predicting continuous outcomes using Python and scikit-learn.
 
 📚 Project Overview
@@ -254,7 +254,7 @@ Ensure the SMSSpamCollection file is in the same directory as your NLP or spam d
 Load the data using pandas or standard Python file I/O for analysis and modeling.
 
 
-7. Simple Linear Regression Project
+7.📁Simple Linear Regression Project
 This Jupyter notebook demonstrates the implementation of Simple Linear Regression for predicting a continuous target variable based on a single feature using Python and scikit-learn.
 
 📚 Project Overview
@@ -312,7 +312,7 @@ bash
 jupyter notebook
 Open Simple_Linear_regression.ipynb and run the cells sequentially.
 
-8. Support Vector Machine (SVM) Classification Project
+8.📁Support Vector Machine (SVM) Classification Project
 This Jupyter notebook demonstrates the implementation of a Support Vector Machine (SVM) for supervised classification tasks using Python and scikit-learn.
 
 📚 Project Overview
@@ -372,7 +372,7 @@ bash
 jupyter notebook
 Open Support Vector Machine.ipynb and run the cells sequentially.
 
-9. 📁 titanic_train.csv
+9.📁 titanic_train.csv
 This file contains the Titanic Training Dataset, one of the most popular datasets for introductory data science and machine learning projects.
 
 About the Dataset
