@@ -30,15 +30,7 @@ The dataset likely includes several features (columns) and a target variable for
 Usage:
 This data file should be placed in the same directory as the KNN project notebook (K nearest Neighbors.ipynb) to ensure smooth loading and processing.
 
-How to Use
-Download or clone the repository, ensuring KNN_Project_Data is present in your working directory.
 
-Open and run the KNN project notebook to follow along with the analysis and modeling steps.
-
-Note
-The dataset is provided for educational and demonstration purposes only.
-
-For details on the data columns and their meanings, refer to the data exploration section in the project notebook.
 
 3.📁 Logistic Regression Classification Project
 This Jupyter notebook demonstrates the implementation of Logistic Regression for binary classification tasks using Python and scikit-learn.
@@ -47,9 +39,7 @@ This Jupyter notebook demonstrates the implementation of Logistic Regression for
 Objective:
 To build, train, and evaluate a logistic regression classifier for predicting binary outcomes.
 
-Workflow:
-The notebook guides you through:
-
+Skills Demonstrated:
 Data loading and initial exploration
 
 Data preprocessing and feature selection
@@ -82,23 +72,9 @@ seaborn
 
 Jupyter Notebook
 
-🚀 How to Run
-Clone the repository:
 
-bash
-git clone https://github.com/SandhyaMuralidhar/MachineLearningProjects.git
-cd MachineLearningProjects
-Install dependencies:
 
-bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-Launch the notebook:
-
-bash
-jupyter notebook
-Open Logistic_Regression.ipynb and run the cells sequentially.
-
-📈 What You’ll Learn
+Skills Demonstrated:
 How logistic regression works for classification problems
 
 The importance of data preprocessing and feature engineering
@@ -115,8 +91,7 @@ This Jupyter notebook demonstrates fundamental techniques in Natural Language Pr
 Objective:
 To explore and implement basic NLP techniques for text preprocessing, feature extraction, and text classification.
 
-Workflow:
-The notebook typically includes:
+Skills Demonstrated:
 
 Loading and exploring textual data
 
@@ -155,8 +130,7 @@ This Jupyter notebook demonstrates the use of Random Forest Regression for predi
 Objective:
 To build, train, and evaluate a Random Forest regression model for accurate prediction of numerical values from structured data.
 
-Workflow:
-The notebook covers:
+Skills Demonstrated
 
 Data loading and initial exploration
 
@@ -192,23 +166,8 @@ seaborn
 
 Jupyter Notebook
 
-🚀 How to Run
-Clone the repository:
 
-bash
-git clone https://github.com/SandhyaMuralidhar/MachineLearningProjects.git
-cd MachineLearningProjects
-Install dependencies:
-
-bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-Launch the notebook:
-
-bash
-jupyter notebook
-Open Randomforest_regression.ipynb and run the cells sequentially.
-
-📈 What You’ll Learn
+Skills Demonstrated:
 How Random Forest works for regression problems
 
 The importance of data preprocessing and feature engineering
@@ -248,11 +207,6 @@ This dataset is used in the Natural language processing.ipynb notebook for build
 
 Ideal for practicing text preprocessing, feature extraction (e.g., Bag-of-Words, TF-IDF), and binary classification algorithms.
 
-How to Use
-Ensure the SMSSpamCollection file is in the same directory as your NLP or spam detection notebook.
-
-Load the data using pandas or standard Python file I/O for analysis and modeling.
-
 
 7.📁Simple Linear Regression Project
 This Jupyter notebook demonstrates the implementation of Simple Linear Regression for predicting a continuous target variable based on a single feature using Python and scikit-learn.
@@ -261,7 +215,7 @@ This Jupyter notebook demonstrates the implementation of Simple Linear Regressio
 Objective:
 To build, train, and evaluate a simple linear regression model for predicting numerical outcomes from a single independent variable.
 
-Workflow:
+Skills Demonstrated:
 The notebook covers:
 
 Data loading and initial exploration
@@ -296,21 +250,6 @@ seaborn
 
 Jupyter Notebook
 
-🚀 How to Run
-Clone the repository:
-
-bash
-git clone https://github.com/SandhyaMuralidhar/MachineLearningProjects.git
-cd MachineLearningProjects
-Install dependencies:
-
-bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-Launch the notebook:
-
-bash
-jupyter notebook
-Open Simple_Linear_regression.ipynb and run the cells sequentially.
 
 8.📁Support Vector Machine (SVM) Classification Project
 This Jupyter notebook demonstrates the implementation of a Support Vector Machine (SVM) for supervised classification tasks using Python and scikit-learn.
@@ -319,8 +258,7 @@ This Jupyter notebook demonstrates the implementation of a Support Vector Machin
 Objective:
 To build, train, and evaluate an SVM classifier for predicting categorical outcomes from structured data.
 
-Workflow:
-The notebook covers:
+Skills Demonstrated:
 
 Data loading and exploration
 
@@ -356,21 +294,7 @@ seaborn
 
 Jupyter Notebook
 
-🚀 How to Run
-Clone the repository:
 
-bash
-git clone https://github.com/SandhyaMuralidhar/MachineLearningProjects.git
-cd MachineLearningProjects
-Install dependencies:
-
-bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-Launch the notebook:
-
-bash
-jupyter notebook
-Open Support Vector Machine.ipynb and run the cells sequentially.
 
 9.📁 titanic_train.csv
 This file contains the Titanic Training Dataset, one of the most popular datasets for introductory data science and machine learning projects.
@@ -424,11 +348,3 @@ Building and evaluating classification models (e.g., Logistic Regression, Decisi
 
 It may be referenced in various notebooks in this repository for hands-on ML demonstrations.
 
-How to Use
-Ensure the titanic_train.csv file is in the same directory as your analysis notebook.
-
-Load the data using pandas:
-
-python
-import pandas as pd
-df = pd.read_csv('titanic_train.csv')
